@@ -9,7 +9,7 @@ I'm a passionate developer with a keen interest in **web development** and **mac
 - 🔍 Always eager to learn and contribute to open-source projects.
 
 ## 📫 Let's Connect!
-- 📞 **Phone:** 0798553050
+- 📞 **Phone:** +254759186613
 - 📧 **Email:** [warimwenathaniel@gmail.com](mailto:warimwenathaniel@gmail.com)
 - 🌐 **GitHub:** [@nathandev254](https://github.com/nathandev254)
 
