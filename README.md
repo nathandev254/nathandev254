@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @nathandev254
-- 👀 I’m interested in web development and machine learning.
-- 🌱 I’m currently learning web development.
-- 📫 How to reach me 0798553050
-- my email address is warimwenathaniel@gmail.com
+# 👋 Hello, I'm Nathaniel (@nathandev254)!
 
-<!---
-nathandev254/nathandev254 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🌟 About Me
+I'm a passionate developer with a keen interest in **web development** and **machine learning**. Currently, I'm sharpening my skills in web development and exploring new technologies to build innovative projects.
+
+## 🚀 What I'm Up To
+- 🌱 Learning and mastering **web development**.
+- 💡 Exploring the intersection of **AI and web technologies**.
+- 🔍 Always eager to learn and contribute to open-source projects.
+
+## 📫 Let's Connect!
+- 📞 **Phone:** 0798553050
+- 📧 **Email:** [warimwenathaniel@gmail.com](mailto:warimwenathaniel@gmail.com)
+- 🌐 **GitHub:** [@nathandev254](https://github.com/nathandev254)
+
+> _“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
+
+Thanks for stopping by! 😊🚀
+
